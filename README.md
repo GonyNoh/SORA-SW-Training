@@ -2,7 +2,7 @@
 C++ SW Training repository in COmputaoinal Robotics & Autonomy Lab.
 
 # Author Information
-Name : Gony Noh
+Name : Gony Noh  
 Department : Electrical and Electronic Engineering at Inha Univ. 
 
 # Project
