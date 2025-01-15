@@ -9,7 +9,8 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
-            "args": ["up","teset data!"],
+            // "args": ["up","teset data!"], for testing arguments
+            "args": ["up","teset data!"], 
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
